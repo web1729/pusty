@@ -1,0 +1,37 @@
+#index
+{
+   text-align: center;
+}
+body
+{
+   background-color: #FFFFFF;
+}
+#Layer1
+{
+   background-color: #FBFBFB;
+   background-image: none;
+}
+#Layer2
+{
+   background-color: #FBFBFB;
+   background-image: none;
+}
+#Layer3
+{
+   background-color: #FBFBFB;
+   background-image: none;
+}
+#Layer4
+{
+   background-color: #FBFBFB;
+   background-image: none;
+}
+#Header1 h5
+{
+   color: #3E3E3E;
+}
+#Footer1 h6
+{
+   color: #3E3E3E;
+   font-style: normal;
+}
